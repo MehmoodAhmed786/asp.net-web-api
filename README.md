@@ -80,7 +80,7 @@ Open the following URL after running the application:
 https://localhost:YOUR_PORT/swagger
 ```
 
-Insert your Swagger screenshot below:
+Swagger screenshot:
 
 ![Swagger Screenshot](images/swagger.PNG)
 
