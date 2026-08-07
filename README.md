@@ -82,7 +82,7 @@ https://localhost:YOUR_PORT/swagger
 
 Insert your Swagger screenshot below:
 
-![Swagger Screenshot](images/swagger.png)
+![Swagger Screenshot](images/swagger.PNG)
 
 ## Notes
 
